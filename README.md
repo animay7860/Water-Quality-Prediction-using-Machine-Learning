@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-Deployed On - https://huggingface.co/spaces/animay620/Water_Quality_Prediction/tree/main
+Deployed On - https://huggingface.co/spaces/animay620/Water_Quality_Prediction
 
 ![image](https://user-images.githubusercontent.com/96621003/208570215-63a19f6d-bab7-4952-8bf3-0b4809553f99.png)
 ![image](https://user-images.githubusercontent.com/96621003/208570569-2526edc5-5d4d-4f2a-a9ce-48c895fc1760.png)
